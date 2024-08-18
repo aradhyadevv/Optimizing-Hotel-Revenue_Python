@@ -61,3 +61,9 @@ High cancellation rates in hotel bookings can significantly impact revenue and o
 
 - As seen in the graph, reservations are canceled when the average daily rate is higher than when it is not canceled. It clearly proves all the above analysis, that the higher price leads to higher cancellation.
 ![12](https://github.com/user-attachments/assets/91be1722-02ba-46e4-a55f-f6071993474d)
+
+###  Suggestions
+- Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the consumers.
+- As the ratio of the cancelled to not cancelled of the city hotel is higher than the resort hotels, so the hotels should provide a reasonable discount on the room prices or attractive offers (like complementary meals/buffet) which would attract more customers.
+- In the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month.
+- They can also increase the quality of their hotels and their services mainly in Portugal to reduce the cancellation rate.
